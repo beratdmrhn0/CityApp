@@ -1,0 +1,8 @@
+﻿node_modules/
+.expo/
+dist/
+build/
+tools/
+*.zip
+*.apk
+package.json.*
